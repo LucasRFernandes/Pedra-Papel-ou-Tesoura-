@@ -1,9 +1,6 @@
 import random
 import time
 
-
-
-
 def jogo():
     
     possible_computer_choices = [
